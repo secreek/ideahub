@@ -75,6 +75,27 @@ Regular clips may be:
 - Short Text
 - Small Images Encoding in **Base64**
 
+#### `Milestone (Snapshot)` ☢☢
+
+A relatively stable version of an idea. Kind of like a "snapshot", means this is a new version that we all agree on, archive it here for future reference. Setting a new milestone does not necessarily means changing the `Status`. Group members can got many milestones even when the idea is in the `Initial Thought` phase.
+
+Milestones are very useful while displaying the Timeline, reminding the group members how they actually reach the final idea.
+
+Attributes:
+
+- Timestamp
+- All connections and so on
+
+#### `Tombstone` ☢☢
+
+Ideas never die, but they need to be put somewhere. Here is the tombstone. Put a death reason tag on an idea, maybe the reason is the limitation of hardware, or simply bad timing, whatever it is, we need to save it. Some time in the future, maybe the `Ship` of an idea, we can bring these ideas back to life, and have a second thought on that.
+
+Attributes:
+
+- Timestamp
+- Death reson
+
+
 ### Sharing, Discussing and Developing
 
 #### Forking ☢☢☢
@@ -92,6 +113,10 @@ User can vote an idea to show her/him interest. The default order of listing ide
 #### Tagging ☢
 
 Tag is a basic attribute of all elements in Ideahub. Tags can be added to elements and view of every list of element should support filtering by tags.
+
+#### Session ☢
+
+Whenever group members wants to discuss something, they will start a new session(in blahtime of course). During the session, everthing about the idea(the connections, the timeline and so on) will be displayed. After the session finished(normally), the discussion will be attached automatically to the idea through a new connection. However, if the sessions ends abnormally(someone slams the door by click the 'X' button in the browser), the discussion contents will also be saved, but will be tagged as something like 'Not closed yet'.
 
 #### Notifications ☢☢
 
@@ -147,6 +172,10 @@ Here is an ordered list of common status:
 ##### Brainstorming
 
 *@long*
+
+##### HUD - Heads Up Display
+
+Isn't it really cool to give a group member a little "heads up", eg, the background, the idea status during the brainstorming?
 
 ##### Clip-it
 
