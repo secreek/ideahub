@@ -184,3 +184,7 @@ Clip-it is a plug-in for quickly drop pieces of information to repository. Clip-
 ##### Inspire-me
 
 This plug-in gathers information base upon existing docs and discussions, automatically generate key words and run a Google search. The search result which contains text, picture and multimedia contents are displayed in a well organized view with slide or fade-in-out effects to inspire users.
+
+##### Remember-me?
+
+This plug-in finds related ideas, comments and clips base upon the information of what you are working on. Remember-me search the entire Ideahub by extracted keywords and suggest connections among elemnets such as ideas, comments and clips. This plug-in can be triggered manually or run as a daemon.
