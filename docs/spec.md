@@ -139,3 +139,7 @@ Here is an ordered list of common status:
 ##### Clip-it
 
 Clip-it is a plug-in for quickly drop pieces of information to repository. Clip-it works as a OS X service or browser add-on, grab selected objects and send them out using API.
+
+##### Inspire-me
+
+This plug-in gathers information base upon existing docs and discussions, automatically generate key words and run a Google search. The search result which contains text, picture and multimedia contents are displayed in a well organized view with slide or fade-in-out effects to inspire users.
