@@ -31,6 +31,7 @@ A plain text or markdown article.
 - Contributor
 - Status
 - Votes
+- Origin (for Forking)
 - Connections
 
 #### `Comment`
@@ -52,7 +53,7 @@ A file is an external object, which can be linked to other objects.
 
 #### `Connection` ☢
 
-All elements in Ideahub . Referencing is preferred again copying.
+All elements in Ideahub are connect-able. Referencing is preferred again copying.
 
 Attributes:
 
@@ -76,6 +77,14 @@ Regular clips may be:
 
 ### Sharing, Discussing and Developing
 
+#### Forking ☢☢☢
+
+One of the most import feature in Ideahub is Forking. Forking means:
+
+> "I like the idea but I would go along another direction."
+
+Almost everything form the original idea can be "inherited" optionally.
+
 #### Voting ☢
 
 User can vote an idea to show her/him interest. The default order of listing ideas is by sorting by votes.
@@ -83,8 +92,6 @@ User can vote an idea to show her/him interest. The default order of listing ide
 #### Tagging ☢
 
 Tag is a basic attribute of all elements in Ideahub. Tags can be added to elements and view of every list of element should support filtering by tags.
-
-#### Brainstorming ☢☢
 
 #### Notifications ☢☢
 
@@ -102,7 +109,7 @@ Tag is a basic attribute of all elements in Ideahub. Tags can be added to elemen
 
 #### Public Activities ☢☢
 
-Any "CRUD" operation on any elements generates a log record. User profile shows public activities.
+Any "CRUD" operation on any element generates a log record. User profile shows public activities.
 
 #### Status
 
@@ -110,13 +117,13 @@ Status is a property of all ideas. It is used by sorting, organizing and statist
 
 Here is an ordered list of common status:
 
-1. Undefined
-2. Initial Thought
-3. Acknowledged
-4. Growing
-5. RFI
-6. Developing
-7. Shipped
+1. `Undefined`
+2. `Initial Thought`
+3. `Acknowledged`
+4. `Growing`
+5. `RFI`
+6. `Developing`
+7. `Shipped`
  
 #### External Connections
 
@@ -135,6 +142,8 @@ Here is an ordered list of common status:
 #### Possible Plug-ins ☢☢☢
 
 ##### Brainstorming
+
+*@long*
 
 ##### Clip-it
 
