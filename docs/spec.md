@@ -79,11 +79,11 @@ Regular clips may be:
 
 #### Forking ☢☢☢
 
-One of the most import feature in Ideahub is Forking. Forking means:
+One of the most import feature in Ideahub is `Forking`. Forking means:
 
 > "I like the idea but I would go along another direction."
 
-Almost everything form the original idea can be "inherited" optionally.
+Almost everything form the original idea can be "inherited" or "overrode" optionally.
 
 #### Voting ☢
 
@@ -127,6 +127,8 @@ Here is an ordered list of common status:
  
 #### External Connections
 
+##### Service Hooks
+
 ### Interfaces
 
 - Web
@@ -138,6 +140,7 @@ Here is an ordered list of common status:
 ### Authorization ☢☢
 
 *NOT_IMPLEMENTED*
+*@vm*
 
 #### Possible Plug-ins ☢☢☢
 
