@@ -16,7 +16,7 @@ Ideahub is a place where a group of people share, discuss and develop product id
 - Zach adds a tag ☢
 - Tom creates an event for online brainstorming and everyone responses with confirmation. ☢☢
 - Discussions in the brainstorming are converted into comments and attached to the idea ☢☢
-- Joe upgrade the status of the idea to `RFI` aka "Ready for Implementation"
+- Joe upgrades the status of the idea to `RFI` aka "Ready for Implementation"
 
 ### Foundational Elements in Ideahub
 
@@ -74,20 +74,50 @@ Regular clips may be:
 - Short Text
 - Small Images Encoding in **Base64**
 
-### Sharing
+### Sharing, Discussing and Developing
 
-### Discussing
+#### Voting ☢
 
-#### Voting
+User can vote an idea to show her/him interest. The default order of listing ideas is by sorting by votes.
 
-#### Tagging
+#### Tagging ☢
 
-### Developing
+Tag is a basic attribute of all elements in Ideahub. Tags can be added to elements and view of every list of element should support filtering by tags.
+
+#### Brainstorming ☢☢
+
+#### Notifications ☢☢
+
+- Web
+- IM
+- Email
+
+#### Statistics ☢☢
+
+- Activity
+- By Status
+- Hot Resources
+- Contributions
+- Timeline
+
+#### Public Activities ☢☢
+
+Any "CRUD" operation on any elements generates a log record. User profile shows public activities.
 
 #### Status
 
-#### Brainstorming
+Status is a property of all ideas. It is used by sorting, organizing and statistics.
 
+Here is an ordered list of common status:
+
+1. Undefined
+2. Initial Thought
+3. Acknowledged
+4. Growing
+5. RFI
+6. Developing
+7. Shipped
+ 
 #### External Connections
 
 ### Interfaces
@@ -107,3 +137,5 @@ Regular clips may be:
 ##### Brainstorming
 
 ##### Clip-it
+
+Clip-it is a plug-in for quickly drop pieces of information to repository. Clip-it works as a OS X service or browser add-on, grab selected objects and send them out using API.
