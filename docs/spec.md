@@ -30,6 +30,7 @@ A plain text or markdown article.
 - Time
 - Contributor
 - Status
+- Votes
 - Connections
 
 #### `Comment`
@@ -77,7 +78,17 @@ Regular clips may be:
 
 ### Discussing
 
+#### Voting
+
+#### Tagging
+
 ### Developing
+
+#### Status
+
+#### Brainstorming
+
+#### External Connections
 
 ### Interfaces
 
