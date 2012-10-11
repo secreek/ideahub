@@ -165,7 +165,17 @@ Here is an ordered list of common status:
 ### Authorization ☢☢
 
 *NOT_IMPLEMENTED*
+
 *@vm*
+
+IdeaHub serves as an open platform in a way that provides data for other services. Some(maybe all) ideas are not free, so anyone who wants to get access to the data must be granted by end users. So ideahub needs to provide a way users can rely for services. We choose OAuth2.
+
+#### OAuth2
+
+Implement / Grap an opensource implementation that conform to OAuth2 protocal.
+
+- OAuth2 service will serve as the core authorization service
+- Third-party applications will use a set of fixed URLs to get the permission for resources
 
 #### Possible Plug-ins ☢☢☢
 
@@ -176,6 +186,16 @@ Here is an ordered list of common status:
 ##### HUD - Heads Up Display
 
 Isn't it really cool to give a group member a little "heads up", eg, the background, the idea status during the brainstorming?
+
+Things that will be displayed on HUD:
+
+- Idea & it's summary
+- Flash cards / Key point list from the previous discussions & comments & connections
+- Members in the room & (possibly) their moods, their locations and their everything
+- How long the session has taken
+- Some predefined key points for this session & how many has already been discussed
+- How long can I still get focus on this session? (I can rate my self, and the session holder can see all member's self estimation, in case the session is too long for members to focus)
+- What have been settled during the discussion period
 
 ##### Clip-it
 
