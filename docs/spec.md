@@ -208,3 +208,24 @@ This plug-in gathers information base upon existing docs and discussions, automa
 ##### Remember-me?
 
 This plug-in finds related ideas, comments and clips base upon the information of what you are working on. Remember-me search the entire Ideahub by extracted keywords and suggest connections among elemnets such as ideas, comments and clips. This plug-in can be triggered manually or run as a daemon.
+
+##### Achievement System - Hall of Frame
+
+> *Anyone who makes contribution should be praised!*
+
+Sharing is something that makes our world a better place! Sharing ideas or opinions is a great thing that should be praised! IdeaHub gives these contributors a new way to be remembered, the "Hall of Frame". 
+
+Remeber, solder, in the world of ideas, it is the imagination that rules! So, equip yourself with your imagination and go and beat your alliance with your best ideas.
+
+Anyone in ideahub can get some kind of achievement. You can gain points by sharing your ideas, voting for other's ideas or actually implement some, it is your activity that decides how good you are in the idea's world.
+
+Some possible achievements: 
+
+*WARNING: Chinese Ahead*
+
+* 一天内连发3个以上 ideas 的 —— “思如泉涌”* 被 fork N 次 —— “先哲”* Fork 别人 N 次却没继续开发 —— “歧途末路”* 在头脑风暴中连续30分钟发言量超过人均 N 倍的 —— “滔滔不绝”* 连续 N 分钟不发言的 —— “沉默是金”* 基本只用 Console 访问的 —— “装逼极客”
+* Upvote 大量  idea 的 —— “老好人”* 为队友 upload 超过 N 个 clips 的 —— “忠实粉丝”* 手工给超过 N 个 elements 建立联系的 —— “最佳联络员”* 爱补充标签的人 —— "???"
+* 在自己 Upvote 的项目中有 N 个没有进行开发 —— “乌鸦嘴”
+* 发起 N 次以上头脑风暴 —— “风暴中心”
+* 上传 N 个以上文件 —— “我家有间图书馆”
+* N 次将某个 idea 设置成 `RFI` —— “大佬”
