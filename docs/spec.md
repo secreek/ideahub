@@ -1,4 +1,4 @@
-## Ideahub Spec
+s## Ideahub Spec
 
 *Version 0.2*
 
